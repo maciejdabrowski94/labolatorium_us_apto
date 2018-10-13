@@ -1,5 +1,5 @@
 Pobierz zadanie z repozytorium:
-
+https://github.com/lazarow/awpto-roulette-api-task
 
 1. Dodaj zależności projektu do pliku `pom.xml`:
 - spark-core,
